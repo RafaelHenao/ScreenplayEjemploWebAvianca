@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Consultar tiquetes solo ida" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-06-11T09:33:10" hostname="pb0b0827885" time="13.688">
+  <properties/>
+  <testcase name="Jennifer quiere viajar de Medellin a Bogota y quiere ver los vuelos disponibles" classname="Consultar tiquetes solo ida" time="13.688">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Dado que Jennifer ha decidido consultar la disponibilidad de vuelos
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Jennifer navega a la opciÃ³n SeleccionaTuViaje
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Jennifer opens the https://www.avianca.com/co/es/
+jun 11, 2020 4:33:11 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9) on port 22094
+Only local connections are allowed.
+jun 11, 2020 4:33:17 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - FINISHING STEP
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - FINISHING STEP
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - FINISHING STEP
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Cuando Jennifer mira los vuelos de Medellín a Bogotá partiendo desde mañana
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96mTEST PENDING?[0m
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96mPENDING STEP?[0m
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP Entonces Jennifer deberia ver las siguientes opciones de clase de vuelo:
+| Súper Promo |
+| Econo |
+| Flexi |
+| Ejecutiva |
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96mTEST PENDING?[0m
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96mPENDING STEP?[0m
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Jennifer quiere viajar de Medellin a Bogota y quiere ver los vuelos disponibles
+---------------------------------------------------------------------------------?[0m
+]]></system-err>
+</testsuite>
